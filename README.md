@@ -1,5 +1,1 @@
-# bkDemo
-
-中山大学分布式系统实验三 
-
-体验如何在蓝鲸云平台上部署一个应用
+开发框架2.0使用说明：https://docs.bk.tencent.com/blueapps/USAGE.html
